@@ -5,9 +5,12 @@ I am a Second Year student at Royal Holloway, University of London studying BSc 
 I am fascinated by the application of DNNs and Machine Learning in the field of Cryptography and the implications/applications that they have.
 
 My technical experience includes:
-  - Java      - HTML
-  - Python    - CSS
-  - Go        - C
+  - Java      
+  - HTML
+  - Python
+  - CSS
+  - Go
+  - C
 
 <!---
 lukavr05/lukavr05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
